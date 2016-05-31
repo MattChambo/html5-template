@@ -2,8 +2,8 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Home</title>
-		<meta name="description" content="Between 150 and 160 characters">
+		<title> <?= $this->title ?> </title>
+		<meta name="description" content="<?= $this->metaDesc ?>">
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
 	<body>
