@@ -1,5 +1,8 @@
 <?php
 
+// Require all the third party stuff that we want to use
+require 'vendor/autoload.php';
+
 // Require the PageController
 
 require 'app/controllers/PageController.php';
